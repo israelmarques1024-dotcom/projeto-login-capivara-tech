@@ -1,0 +1,1 @@
+esse é um projeto simples q fiz com node.js express HTML, CSS e JS, estou embarcando nesse mundo cedo(12 anos) e espero um belo futuro pela frente 
